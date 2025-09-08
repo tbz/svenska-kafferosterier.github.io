@@ -501,6 +501,7 @@
   comment: Kafferosteri, hantverksbageri och café.
   courses: true
   location: Linköping
+  singleorigin: true
   subscription: false
   url: simonsrosteribageri.se
   webshop: true
